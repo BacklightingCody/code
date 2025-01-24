@@ -43,5 +43,8 @@ var fourSum = function (nums, target) {
 
   return res;
 };
+
+
+
 const nums = [1, 0, -1, 0, -2, 2], target = 0
 console.log(fourSum(nums, target))
